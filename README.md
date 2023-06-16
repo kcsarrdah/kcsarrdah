@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/kcsarrdah/kcsarrdah/output/github-contribution-grid-snake.svg" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Software%2C+Developement+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&lines=Software+Developement+Engineer)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
