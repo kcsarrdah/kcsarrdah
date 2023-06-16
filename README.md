@@ -3,7 +3,7 @@
 
 
 
-# Welcome to My corner of the Internet:
+# Welcome To My Corner Of The Internet:
 ![cyberpunk1](https://user-images.githubusercontent.com/69577585/230151745-3cabeaba-7df5-4a18-8bd4-5846ad9abf87.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&lines=Software+Developement+Engineer)](https://git.io/typing-svg)
